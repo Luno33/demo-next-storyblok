@@ -13,3 +13,5 @@ To work correctly, the Next's Preview Mode needs to set two special cookies: `__
 Only when we try to visualize the page inside the Storyblok's Visual Editor, the cookies cannot be set due to the error:
 
 > "This Set-Cookie was blocked because it had the "SameSite=Lax" attribute but came from a cross-site response which was not the response to a top-level navigation".
+
+![screenshot](./assets/screen.png)
